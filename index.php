@@ -1,4 +1,4 @@
 <?php
-print("Hello this is test code for openshift, Happy learning !!! ")
+print("Hello this is test code for openshift, Happy learning !!! ");
 
 ?>
